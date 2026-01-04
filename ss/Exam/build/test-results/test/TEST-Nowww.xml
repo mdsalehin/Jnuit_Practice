@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Nowww" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-01-03T12:26:12.278Z" hostname="DESKTOP-10J49TG" time="4.676">
+  <properties/>
+  <testcase name="dashboardValidationValidation()" classname="Nowww" time="0.042"/>
+  <testcase name="pimEmployeeTableValidation()" classname="Nowww" time="4.572"/>
+  <testcase name="userProfileNameValidation()" classname="Nowww" time="0.021"/>
+  <testcase name="pimValidation()" classname="Nowww" time="0.019"/>
+  <testcase name="adminValidation()" classname="Nowww" time="0.019"/>
+  <system-out><![CDATA[Actual   : Dashboard
+Expected : Dashboard
+Employee 1 : muser manda akhil user
+Employee 2 : 0034 Russel Hamilton
+Employee 3 : 0087 Sania Shaheen
+Employee 4 : 0103 Sara Tencrady
+User Profile Name : manda user
+Actual   : PIM
+Expected : PIM
+Actual   : Admin
+Expected : Admin
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
